@@ -1,5 +1,5 @@
-# OpenCV-PointTracking-
-opencv3 point-tracking 点追踪
+
+# opencv3 point-tracking 点追踪
 ## 基于特征点的目标跟踪的一般方法
 
       基于特征点的跟踪算法大致可以分为两个步骤：
